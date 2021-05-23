@@ -1,24 +1,98 @@
-# README
+<!-- Please update value in the {}  -->
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h1 align="center">Twitter Clone Project</h1>
 
-Things you may want to cover:
+<div align="center">
+   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+</div>
 
-* Ruby version
+<div align="center">
+  <h3>
+    <a href="https://{your-demo-link.your-domain}">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://{your-url-to-the-solution}">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/challenges/rleoQc34THclWx1cFFKH">
+      Challenge
+    </a>
+  </h3>
+</div>
 
-* System dependencies
+<!-- TABLE OF CONTENTS -->
 
-* Configuration
+## Table of Contents
 
-* Database creation
+- [Table of Contents](#table-of-contents)
+- [Overview](#overview)
+  - [Built With](#built-with)
+- [Features](#features)
+- [How To Use](#how-to-use)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 
-* Database initialization
+<!-- OVERVIEW -->
 
-* How to run the test suite
+## Overview
 
-* Services (job queues, cache servers, search engines, etc.)
+![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
 
-* Deployment instructions
+Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-* ...
+- Where can I see your demo?
+- What was your experience?
+- What have you learned/improved?
+- Your wisdom? :)
+
+### Built With
+
+<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+
+- [React](https://reactjs.org/)
+- [Vue.js](https://vuejs.org/)
+- [Tailwind](https://tailwindcss.com/)
+- [Rails API](https://rubyonrails.org/)
+- PostgreSQL
+
+## Features
+
+<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
+
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/rleoQc34THclWx1cFFKH) was to build an application to complete the given user stories.
+
+## How To Use
+
+<!-- Example: -->
+
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com) or [yarn](https://yarn.com)) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/Ahiiia92/twitter-clone
+
+# Install dependencies for rails
+$ bundle install
+
+# Install dependencies with npm
+$ npm install // yarn install
+
+# Run the app
+$ npm start // yarn start
+```
+
+## Acknowledgements
+
+<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example: -->
+
+- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
+- [Node.js](https://nodejs.org/)
+- [Marked - a markdown parser](https://github.com/chjj/marked)
+
+## Contact
+
+- Website [www.maroussiaarnault.com](https://www.maroussiaarnault.com)
+- GitHub [@Ahiiia92](https://github.com/Ahiiia92)
+- Twitter [@Marou_arnault](https://twitter.com/Marou_arnault)
