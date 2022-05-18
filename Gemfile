@@ -14,6 +14,7 @@ gem 'devise'
 gem 'simple_form'
 gem 'uglifier'
 gem 'faker'
+gem 'active_model_serializers'
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.7'
